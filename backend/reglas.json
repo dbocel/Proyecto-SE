@@ -1,0 +1,318 @@
+{
+  "universidades": [
+    {
+      "id": 1,
+      "nombre": "USAC",
+      "tipo": "Pública",
+      "presupuesto": "Bajo",
+      "departamento": "Guatemala",
+      "municipio": "Guatemala",
+      "sede": "Campus Central",
+      "direccion": "Ciudad Universitaria, Zona 12, Ciudad de Guatemala",
+      "telefono": "0000-0000",
+      "sitio_web": "https://portal.usac.edu.gt",
+      "jornadas": ["Matutina", "Vespertina", "Nocturna", "Fin de Semana"],
+      "facultades": {
+        "Salud": ["Medicina", "Odontología"],
+        "Ingeniería": ["Ingeniería Civil", "Ingeniería Industrial", "Ingeniería en Sistemas"],
+        "Ciencias Sociales": ["Derecho", "Psicología", "Trabajo Social"],
+        "Negocios": ["Administración de Empresas", "Contaduría Pública y Auditoría", "Economía"],
+        "Diseño": ["Arquitectura", "Diseño Gráfico"]
+      }
+    },
+    {
+      "id": 2,
+      "nombre": "USAC",
+      "tipo": "Pública",
+      "presupuesto": "Bajo",
+      "departamento": "Guatemala",
+      "municipio": "Guatemala",
+      "sede": "Campus Central",
+      "direccion": "11 Avenida, Cdad. de Guatemala",
+      "telefono": "0000-0000",
+      "sitio_web": "https://portal.usac.edu.gt",
+      "jornadas": ["Matutina", "Vespertina", "Nocturna", "Fin de Semana"],
+      "facultades": {
+        "Salud": ["Medicina", "Odontología"],
+        "Ingeniería": ["Ingeniería Civil", "Ingeniería Industrial", "Ingeniería en Sistemas"],
+        "Ciencias Sociales": ["Derecho", "Psicología", "Trabajo Social"],
+        "Negocios": ["Administración de Empresas", "Contaduría Pública y Auditoría", "Economía"],
+        "Diseño": ["Arquitectura", "Diseño Gráfico"]
+      }
+    },
+    {
+      "id": 3,
+      "nombre": "USAC",
+      "tipo": "Pública",
+      "presupuesto": "Bajo",
+      "departamento": "Quetzaltenango",
+      "municipio": "Quetzaltenango",
+      "sede": "CUNOC",
+      "direccion": "Colonia El Maestro, Quetzaltenango",
+      "telefono": "0000-0000",
+      "sitio_web": "https://portal.usac.edu.gt",
+      "jornadas": ["Matutina", "Nocturna", "Fin de Semana"],
+      "facultades": {
+        "Salud": ["Medicina", "Odontología"],
+        "Ingeniería": ["Ingeniería Civil", "Ingeniería Industrial"],
+        "Ciencias Sociales": ["Derecho", "Trabajo Social"],
+        "Negocios": ["Administración de Empresas", "Contaduría Pública"],
+        "Diseño": ["Arquitectura"]
+      }
+    },
+    {
+      "id": 4,
+      "nombre": "USAC",
+      "tipo": "Pública",
+      "presupuesto": "Bajo",
+      "departamento": "Alta Verapaz",
+      "municipio": "Cobán",
+      "sede": "CUNOR",
+      "direccion": "Finca Sachamach, Cobán",
+      "telefono": "0000-0000",
+      "sitio_web": "https://portal.usac.edu.gt",
+      "jornadas": ["Matutina", "Nocturna", "Fin de Semana"],
+      "facultades": {
+        "Salud": ["Medicina"],
+        "Ingeniería": ["Ingeniería en Sistemas", "Ingeniería Industrial", "Ingeniería Civil"],
+        "Ciencias Sociales": ["Derecho", "Psicología"],
+        "Negocios": ["Administración de Empresas", "Contaduría Pública"],
+        "Diseño": []
+      }
+    },
+    {
+      "id": 5,
+      "nombre": "USAC",
+      "tipo": "Pública",
+      "presupuesto": "Bajo",
+      "departamento": "Chiquimula",
+      "municipio": "Chiquimula",
+      "sede": "CUNORI",
+      "direccion": "Finca El Zapotillo, Chiquimula",
+      "telefono": "0000-0000",
+      "sitio_web": "https://portal.usac.edu.gt",
+      "jornadas": ["Matutina", "Nocturna"],
+      "facultades": {
+        "Salud": ["Medicina"],
+        "Ingeniería": ["Ingeniería Civil", "Ingeniería en Sistemas"],
+        "Ciencias Sociales": ["Derecho"],
+        "Negocios": ["Administración de Empresas"],
+        "Diseño": []
+      }
+    },
+    {
+      "id": 6,
+      "nombre": "USAC",
+      "tipo": "Pública",
+      "presupuesto": "Bajo",
+      "departamento": "Sololá",
+      "municipio": "Sololá",
+      "sede": "CUNSOL",
+      "direccion": "Centro Universitario de Sololá (CUNSOL)",
+      "telefono": "N/D",
+      "sitio_web": "https://www.cunsol.edu.gt",
+      "jornadas": [
+        "Matutina",
+        "Vespertina",
+        "Nocturna",
+        "Fin de Semana"
+      ],
+      "facultades": {
+        "Ingeniería": [
+          "Ingeniería en Sistemas",
+          "Ingeniería Ambiental"
+        ],
+        "Ciencias Sociales": [
+          "Derecho",
+          "Trabajo Social"
+        ],
+        "Educación": [
+          "Pedagogía",
+          "Profesorados"
+        ],
+        "Negocios": [
+          "Administración de Empresas"
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "nombre": "UMG",
+      "tipo": "Privada",
+      "presupuesto": "Medio",
+      "departamento": "Guatemala",
+      "municipio": "Guatemala",
+      "sede": "Campus Central",
+      "direccion": "3a Avenida 9-00 Zona 2, Finca El Zapote",
+      "telefono": "0000-0000",
+      "sitio_web": "https://umg.edu.gt",
+      "jornadas": ["Matutina", "Nocturna", "Fin de Semana"],
+      "facultades": {
+        "Salud": ["Medicina", "Enfermería", "Fisioterapia"],
+        "Ingeniería": ["Ingeniería Civil", "Ingeniería Industrial", "Ingeniería en Sistemas"],
+        "Ciencias Sociales": ["Derecho", "Criminología"],
+        "Negocios": ["Administración de Empresas", "Mercadotecnia"],
+        "Diseño": ["Arquitectura", "Diseño Gráfico"]
+      }
+    },
+    {
+      "id": 8,
+      "nombre": "UMG",
+      "tipo": "Privada",
+      "presupuesto": "Medio",
+      "departamento": "Quetzaltenango",
+      "municipio": "Quetzaltenango",
+      "sede": "Sede Xela",
+      "direccion": "Quetzaltenango",
+      "telefono": "0000-0000",
+      "sitio_web": "https://umg.edu.gt",
+      "jornadas": ["Fin de Semana"],
+      "facultades": {
+        "Salud": ["Medicina"],
+        "Ingeniería": ["Ingeniería en Sistemas"],
+        "Ciencias Sociales": ["Derecho"],
+        "Negocios": ["Administración de Empresas"],
+        "Diseño": []
+      }
+    },
+    {
+      "id": 9,
+      "nombre": "UMG",
+      "tipo": "Privada",
+      "presupuesto": "Medio",
+      "departamento": "Sololá",
+      "municipio": "Sololá",
+      "sede": "Sede Sololá",
+      "direccion": "8va. Avenida y 13 Calle zona 2 Barrio San Bartolo, Sololá",
+      "telefono": "7762-4687",
+      "sitio_web": "https://umg.edu.gt",
+      "jornadas": [
+        "Fin de Semana"
+      ],
+      "facultades": {
+        "Negocios": [
+          "Ciencias Jurídicas y Sociales",
+          "Administración de Empresas"
+        ],
+        "Ciencias Jurídicas": [
+          "Derecho"
+        ],
+        "Ciencias Sociales": [
+          "Psicología"
+        ],
+        "Ingeniería": [
+          "Ingeniería en Sistemas"
+        ],
+        "Educación": [
+          "Pedagogía"
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "nombre": "UVG",
+      "tipo": "Privada",
+      "presupuesto": "Alto",
+      "departamento": "Guatemala",
+      "municipio": "Guatemala",
+      "sede": "Campus Central",
+      "direccion": "18 Avenida 11-95 Zona 15",
+      "telefono": "0000-0000",
+      "sitio_web": "https://uvg.edu.gt",
+      "jornadas": ["Matutina", "Vespertina"],
+      "facultades": {
+        "Ingeniería": [
+          "Ingeniería en Computación",
+          "Ingeniería Industrial",
+          "Ingeniería Mecatrónica",
+          "Ingeniería Civil"
+        ],
+        "Negocios": [
+          "Administración de Empresas",
+          "Finanzas"
+        ],
+        "Ciencias Sociales": [
+          "Psicología",
+          "Comunicación"
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "nombre": "UVG",
+      "tipo": "Privada",
+      "presupuesto": "Alto",
+      "departamento": "Escuintla",
+      "municipio": "Santa Lucía Cotzumalguapa",
+      "sede": "Campus Sur",
+      "direccion": "Km 89.5 Santa Lucía Cotzumalguapa",
+      "telefono": "0000-0000",
+      "sitio_web": "https://uvg.edu.gt",
+      "jornadas": ["Matutina"],
+      "facultades": {
+        "Ingeniería": ["Ingeniería Industrial"],
+        "Negocios": ["Administración de Empresas"],
+        "Ciencias Sociales": [],
+        "Diseño": []
+      }
+    },
+    {
+      "id": 12,
+      "nombre": "UVG",
+      "tipo": "Privada",
+      "presupuesto": "Alto",
+      "departamento": "Sololá",
+      "municipio": "Sololá",
+      "sede": "Campus Altiplano",
+      "direccion": "Km. 137, Caserío Xolbé, El Tablón, Sololá",
+      "telefono": "7931-0814",
+      "sitio_web": "https://altiplano.uvg.edu.gt",
+      "jornadas": [
+        "Matutina",
+        "Vespertina"
+      ],
+      "facultades": {
+        "Ingeniería": [
+          "Ingeniería en Tecnología Agroforestal",
+          "Tecnología de Sistemas Informáticos",
+          "Administración de Empresas y Mercadeo"
+        ],
+        "Ciencias y Humanidades": [
+          "Turismo",
+          "Técnico en Turismo"
+        ],
+        "Educación": [
+          "Profesorado en Matemática y Física",
+          "Profesorado en Inglés",
+          "Educación Primaria Bilingüe Intercultural",
+          "Psicopedagogía"
+        ],
+        "Tecnología": [
+          "Agroforestería",
+          "Informática",
+          "Administración de Empresas"
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "nombre": "UFM",
+      "tipo": "Privada",
+      "presupuesto": "Alto",
+      "departamento": "Guatemala",
+      "municipio": "Guatemala",
+      "sede": "Campus Único",
+      "direccion": "Zona 10, Ciudad de Guatemala",
+      "telefono": "0000-0000",
+      "sitio_web": "https://www.ufm.edu",
+      "jornadas": ["Matutina", "Vespertina"],
+      "facultades": {
+        "Negocios": ["Administración de Empresas", "Economía"],
+        "Ingeniería": ["Computer Science"],
+        "Ciencias Sociales": ["Derecho", "Ciencia Política"],
+        "Salud": ["Medicina"],
+        "Diseño": ["Arquitectura"]
+      }
+    }
+  ]
+}
