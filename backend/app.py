@@ -32,10 +32,9 @@ FACULTAD_MAP = {
 }
 
 def cargar_base_conocimientos():
-    with open('reglas.json', 'r', encoding='utf-8') as f:
+    ruta = os.path.join(os.path.dirname(__file__), "reglas.json")
+    with open(ruta, 'r', encoding='utf-8') as f:
         return json.load(f)
-print("Base de conocimientos cargada exitosamente.")
-
 
 @app.route('/diagnosticar', methods=['POST'])
 def diagnosticar():
