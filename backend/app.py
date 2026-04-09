@@ -5,6 +5,19 @@ import json
 app = Flask(__name__)
 CORS(app)
 
+@app.route("/")
+def home():
+    return {"mensaje": "API funcionando correctamente"}
+
+@app.route("/universidades")
+def universidades():
+    ruta = os.path.join(os.path.dirname(__file__), "reglas.json")
+    
+    with open(ruta, "r", encoding="utf-8") as file:
+        data = json.load(file)
+
+    return jsonify(data)
+
 FACULTAD_MAP = {
     'Ingeniería': 'Ingeniería',
     'Salud': 'Salud',
