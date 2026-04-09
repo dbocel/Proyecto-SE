@@ -1,8 +1,9 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
 
-//const API = 'https://proyecto-se-qyp7.onrender.com';
-const API = process.env.REACT_APP_API;
+
+const API = "https://proyecto-se-qyp7.onrender.com";
+//const API = process.env.REACT_APP_API;
 
 const FACULTADES = [
   { label: 'Ingeniería',        descripcion: 'Civil, Electrónica, Industrial…',     valor: 'Ingeniería' },
